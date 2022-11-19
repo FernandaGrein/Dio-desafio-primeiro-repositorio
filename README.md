@@ -1,2 +1,1 @@
-# Dio-desafio-primeiro-reposit-rio
-Primeiro Desafio de Código do Dio
+Repositório do Desafio de Proheto sobre Git/GitHub da DIO
