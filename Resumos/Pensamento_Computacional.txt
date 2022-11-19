@@ -1,0 +1,27 @@
+PENSAMENTO COMPUTACIONAL
+
+Pensamento Computacional é o processo de pensamento envolvido na expressão de soluções
+em passos Computacionais ou algoritmos. É um pensamento sistemático e eficiente para 
+a formulação e resolução de problemas e tem como habilidades complementares o raciocínio 
+lógico e o aperfeiçoamento da solução Computacional.
+
+Possui quatro pilares: 
+  - decompor um grande problema em problemas menores e resolvíveis;
+  - identificar padrões de similaridade dentro de um contexto específico;
+  - extrapolar o conceito de um problema para uma forma generalista dentro do mundo das ideias;
+  - definir um passo a passo para a resolução do problema(algorítimo);
+
+Algoritmo: É uma sequencia de passos com um objetivo pré-definido, utilizado para a execução 
+de tarefas específicas, possuindo dentro de si um conjunto de operações que resultam em 
+uma sucessão finitas de ações.
+Para construir um algoritmo é preciso compreender o problema, definir os dados de entrada e 
+de saída e definir o processamento, utilizando um método de construção, teste e diagnóstico.
+
+Lógica de Programação: É uma forma de pensamento estruturada que visa a organização e o 
+planejamento das instruções para viabilizar a implantação de um programa.
+Atualmente a técnica mais utilizada é a modular, na qual, um programa possui partes 
+independentes controladas por um conjunto de regras, operações e variáveis próprias, 
+possibilitando assim, a simplificação do algoritmo, a decomposição do problema e a 
+reutilização do código.
+
+
