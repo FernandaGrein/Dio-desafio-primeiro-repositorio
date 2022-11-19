@@ -1,0 +1,41 @@
+PseudoCódigos escritos com Portugol
+
+programa {
+  funcao inicio() {
+    inteiro x, y
+    escreva("Digite os valores para serem somados")
+    leia(x)
+    leia(y)
+
+    escreva(soma_intervalos(x,y))
+  }
+
+  funcao  inteiro soma_intervalos(inteiro x, inteiro y) {
+    inteiro total, soma_parcial
+    total = y/2
+    soma_parcial = x + y
+
+    inteiro resultado = total * soma_parcial
+    retorne resultado
+  }
+}
+
+programa {
+  funcao inicio() {
+    real nota_a, nota_b, nota_c, nota_d
+    escreva ("Digite as notas da p1 e da p2 do aluno A ")
+    leia(nota_a)
+    leia(nota_b)
+    
+    escreva ("Digite as notas da p1 e da p2 do aluno B ")
+    leia(nota_c)
+    leia(nota_d)
+
+    escreva("A média do aluno A é: ", media_aluno(nota_a, nota_b))
+    escreva("\nA média do aluno B é: ", media_aluno(nota_c, nota_d) )
+  }
+
+  funcao real media_aluno(real nota_a, real nota_b) {
+    retorne (nota_a + nota_b)/2
+  }
+}
