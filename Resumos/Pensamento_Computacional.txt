@@ -23,5 +23,3 @@ Atualmente a técnica mais utilizada é a modular, na qual, um programa possui p
 independentes controladas por um conjunto de regras, operações e variáveis próprias, 
 possibilitando assim, a simplificação do algoritmo, a decomposição do problema e a 
 reutilização do código.
-
-
